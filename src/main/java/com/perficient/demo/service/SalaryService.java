@@ -1,9 +1,9 @@
-package com.example.demo.service;
+package com.perficient.demo.service;
 
-import com.example.demo.domain.Salary;
-import com.example.demo.mapper.SalaryMapper;
-import com.example.demo.model.SalaryDTO;
-import com.example.demo.repository.SalaryRepository;
+import com.perficient.demo.domain.Salary;
+import com.perficient.demo.mapper.SalaryMapper;
+import com.perficient.demo.model.SalaryDTO;
+import com.perficient.demo.repository.SalaryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

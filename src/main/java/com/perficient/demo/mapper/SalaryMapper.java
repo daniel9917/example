@@ -1,9 +1,8 @@
-package com.example.demo.mapper;
+package com.perficient.demo.mapper;
 
-import com.example.demo.domain.Salary;
-import com.example.demo.model.SalaryDTO;
+import com.perficient.demo.domain.Salary;
+import com.perficient.demo.model.SalaryDTO;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;
 
 @Mapper(componentModel = "spring")

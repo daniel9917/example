@@ -1,7 +1,7 @@
-package com.example.demo.config;
+package com.perficient.demo.config;
 
-import com.example.demo.mapper.SalaryMapper;
-import com.example.demo.mapper.SalaryMapperImpl;
+import com.perficient.demo.mapper.SalaryMapper;
+import com.perficient.demo.mapper.SalaryMapperImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

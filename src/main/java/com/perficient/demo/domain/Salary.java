@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.perficient.demo.domain;
 
 import java.io.Serializable;
 import java.util.UUID;

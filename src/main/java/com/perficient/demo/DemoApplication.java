@@ -1,6 +1,6 @@
-package com.example.demo;
+package com.perficient.demo;
 
-import com.example.demo.mapper.SalaryMapper;
+import com.perficient.demo.mapper.SalaryMapper;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

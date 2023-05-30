@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.perficient.demo.repository;
 
-import com.example.demo.domain.Salary;
+import com.perficient.demo.domain.Salary;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;

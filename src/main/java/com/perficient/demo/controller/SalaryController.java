@@ -1,8 +1,8 @@
-package com.example.demo.controller;
+package com.perficient.demo.controller;
 
-import com.example.demo.domain.Salary;
-import com.example.demo.model.SalaryDTO;
-import com.example.demo.service.SalaryService;
+import com.perficient.demo.domain.Salary;
+import com.perficient.demo.model.SalaryDTO;
+import com.perficient.demo.service.SalaryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
